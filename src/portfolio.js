@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Achirangshu's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who thrives on developing intelligent automation and AI-driven systems, aiming to build scalable and sustainable Industry 4.0 solutions that create real-world industrial and educational impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Achirangshu Patra Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://github.com/AchirangshuPatra",
   },
 };
 
